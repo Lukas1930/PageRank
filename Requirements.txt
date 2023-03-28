@@ -1,0 +1,5 @@
+Python libaries needed
+Random
+Counter
+networkx
+numpy
